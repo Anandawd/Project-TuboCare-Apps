@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "438135143115",
+    "project_id": "tubocare-8d28f",
+    "storage_bucket": "tubocare-8d28f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438135143115:android:39e065d8969914cff6794e",
+        "android_client_info": {
+          "package_name": "com.project.tubocare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438135143115-48nfjn1seiu7chio8foqtre28e7ekr74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.tubocare",
+            "certificate_hash": "90036cef7a07e60f3d28921d494caa252b499c53"
+          }
+        },
+        {
+          "client_id": "438135143115-klshqofarul6p6pvtqqutghmfk8i2p5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKPEeUNMkn5RldvP1HMh-IMZ_BCXwpkcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438135143115-klshqofarul6p6pvtqqutghmfk8i2p5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

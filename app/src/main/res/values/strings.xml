@@ -1,0 +1,263 @@
+<resources>
+    <string name="app_name">TuboCare</string>
+
+    // Login
+    <string name="title_selamat_datang">Selamat Datang</string>
+    <string name="label_email">Email</string>
+    <string name="placeholder_email">masukkan email</string>
+    <string name="label_password">Password</string>
+    <string name="placeholder_password">masukkan password</string>
+    <string name="label_confirm_password">Konfirmasi Password</string>
+    <string name="placeholder_confirm_password">masukkan ulang password</string>
+    <string name="lupa_password">Lupa password?</string>
+    <string name="btn_masuk">Masuk</string>
+    <string name="btn_masuk_dengan_google">Masuk dengan Google</string>
+    <string name="belum_punya_akun">Belum punya akun?</string>
+    <string name="btn_daftar">Daftar</string>
+    <string name="btn_kirim">Kirim</string>
+    <string name="hide_password">Hide password</string>
+    <string name="show_password">Show password</string>
+    <string name="divider">atau</string>
+    <string name="go_to_register">Belum punya akun? Register</string>
+
+    // Register
+    <string name="title_register_1">Daftar Akun</string>
+    <string name="title_register_2">Lengkapi Profil</string>
+    <string name="btn_next">Selanjutnya</string>
+    <string name="btn_save">Simpan</string>
+    <string name="btn_register">Daftar</string>
+    <string name="btn_daftar_dengan_google">Daftar dengan Google</string>
+    <string name="go_to_login">Sudah punya akun? Login</string>
+    <string name="label_puskesmas">Unit Puskesmas</string>
+    <string name="label_role">Peran Anda</string>
+    <string name="label_kode_puskesmas">Kode Puskesmas</string>
+    <string name="label_name">Nama Lengkap</string>
+    <string name="label_bdate">Tanggal Lahir</string>
+    <string name="label_gender">Pilih Jenis Kelamin</string>
+    <string name="label_address">Alamat Domisili</string>
+    <string name="label_phone">No. Handphone</string>
+    <string name="label_code">Kode Puskesmas</string>
+    <string name="placeholder_name">masukkan nama lengkap</string>
+    <string name="placeholder_role">masukkan peran anda</string>
+    <string name="placeholder_bdate">masukkan tanggal lahir</string>
+    <string name="placeholder_address">masukkan alamat domisili</string>
+    <string name="placeholder_phone">masukkan no. handphone</string>
+    <string name="placeholder_puskesmas">masukkan unit puskesmas</string>
+    <string name="placeholder_code">masukkan kode unit puskesmas</string>
+    <string name="medication_feedback">Sudah minum obat hari ini?</string>
+    <string name="title_article">Artikel Tuberkulosis</string>
+    <string name="article_content_sample">
+        Salah satu langkah untuk mencegah TBC adalah dengan menerima vaksin BCG (Bacillus Calmette-Guerin). Di Indonesia, vaksin ini termasuk dalam daftar imunisasi wajib dan diberikan sebelum bayi berusia 2 bulan. Bagi yang belum pernah menerima vaksin BCG, dianjurkan untuk melakukan vaksin bila terdapat salah satu anggota keluarga yang menderita TBC. Beberapa upaya yang dilakukan untuk mencegah penularan TB yaitu :
+        \n\n1) Menggunakan masker saat berada ditempat ramai dan berinteraksi dengan penderita TBC, serta mencuci tangan.
+        \n\n2) Tutup mulut saat bersin, batuk, dan tertawa atau gunakan tisu untuk menutup mulut, tisu yang sudah digunakan  dimasukan kedalam plastik dan di buang ke kotak sampah.
+        \n\n3) Tidak membuang dahak atau meludah sembarangan.
+    </string>
+    <string name="btn_baca_selengkap">Baca selengkapnya</string>
+    <string name="title_article_sample">Gejala Umum Tuberkulosis</string>
+    <string name="title_article_detail">Detail Artikel</string>
+    <string name="title_profile">Profil</string>
+    <string name="profile_name">Ananda Widiastana</string>
+    <string name="profile_age">21 Tahun</string>
+    <string name="profile_menu_edit">Ubah Profil</string>
+    <string name="profile_menu_symptom">Riwayat Keluhan</string>
+    <string name="profile_menu_weight">Riwayat Berat Badan</string>
+    <string name="profile_menu_patients">Daftar Pasien</string>
+    <string name="profile_menu_about">Tentang Kami</string>
+    <string name="btn_logout">Keluar</string>
+    <string name="title_edit_profile">Edit Profil</string>
+    <string name="edit_photo_profile_instruction">Tekan untuk ubah</string>
+    <string name="profile_address">Pisang Candi, Kecamatan Sukun</string>
+    <string name="profile_phone">085345165640</string>
+    <string name="symptom_name">Pusing</string>
+    <string name="symptom_note">Setelah minum obat</string>
+    <string name="symptom_time">08:00 AM</string>
+    <string name="medication_name">Paracetamol</string>
+    <string name="medication_time">10:00 AM</string>
+    <string name="medication_today">"Hari ini pukul "</string>
+    <string name="title_symptom">Riwayat Keluhan</string>
+    <string name="title_history_medication">Riwayat Minum Obat</string>
+    <string name="title_notification">Notifikasi</string>
+    <string name="title_edit_symptom">Ubah Riwayat</string>
+    <string name="symptom_label_name">Nama Keluhan</string>
+    <string name="symptom_placeholder_name">masukkan keluhan anda</string>
+    <string name="symptom_label_date">Tanggal</string>
+    <string name="symptom_placeholder_date">masukkan tanggal keluhan</string>
+    <string name="symptom_label_time">Waktu</string>
+    <string name="symptom_placeholder_time">masukkan waktu keluhan</string>
+    <string name="symptom_label_note">Catatan</string>
+    <string name="symptom_placeholder_note">masukkan catatan</string>
+    <string name="weight_note_1">Berat badan turun</string>
+    <string name="weight_note_2">Berat badan naik</string>
+    <string name="weight_note_3">Berat badan tetap</string>
+    <string name="title_weight">Riwayat Berat Badan</string>
+    <string name="weight_sample_1">60</string>
+    <string name="weight_sample_2">65</string>
+    <string name="weight_placeholder_date">masukkan tanggal riwayat</string>
+    <string name="weight_placeholder_time">masukkan waktu riwayat</string>
+    <string name="weight_label_weight">Berat Badan (kg)</string>
+    <string name="weight_placeholder_weight">"masukkan berat badan"</string>
+    <string name="weight_label_height">Tinggi Badan (cm)</string>
+    <string name="weight_height">172</string>
+    <string name="weight_placeholder_height">masukkan tinggi badan</string>
+    <string name="weight_placeholder_note">masukkan catatan berat badan</string>
+    <string name="imt_normal">Normal</string>
+    <string name="imt_kurang">Kurang</string>
+    <string name="imt_berlebih">Berlebih</string>
+    <string name="imt_obesitas">Obesitas</string>
+    <string name="imt_title">Indeks Massa Tubuh (IMT)</string>
+    <string name="weight_box_title">"Berat Badan : "</string>
+    <string name="height_box_title">"Tinggi Badan : "</string>
+    <string name="weight_suffix">kg</string>
+    <string name="height_suffix">cm</string>
+    <string name="appointment_name">Pengambilan Obat</string>
+    <string name="title_appointment">Kalender</string>
+    <string name="appointment_date_sample">29 April</string>
+    <string name="appointment_date_sample_2">30 April</string>
+    <string name="title_edit_appointment">Ubah Jadwal</string>
+    <string name="appointment_label_name">Nama Jadwal</string>
+    <string name="appointment_placeholder_name">masukkan nama jadwal</string>
+    <string name="appointment_placeholder_date">masukkan tanggal jadwal</string>
+    <string name="appointment_placeholder_time">masukkan waktu jadwal</string>
+    <string name="appointment_note">Jadwal kontrol kedua</string>
+    <string name="appointment_location">Puskesmas Dinoyo</string>
+    <string name="appointment_label_location">Lokasi</string>
+    <string name="appointment_placeholder_location">masukkan lokasi jadwal</string>
+    <string name="title_detail_appointment">Detail Jadwal</string>
+    <string name="appointment_date">29 April</string>
+    <string name="appointment_time">08:00 AM</string>
+    <string name="title_new_appointment">Jadwal Baru</string>
+    <string name="btn_done">Selesai</string>
+    <string name="title_new_symptom">Keluhan Baru</string>
+    <string name="title_new_weight">Berat Badan Baru</string>
+    <string name="weight_label_note">Catatan</string>
+    <string name="weight_label_time">Waktu</string>
+    <string name="weight_label_date">Tanggal</string>
+    <string name="appointment_label_date">Tanggal</string>
+    <string name="appointment_label_time">Waktu</string>
+    <string name="appointment_label_note">Catatan</string>
+    <string name="appointment_placeholder_note">masukkan catatan (opsional)</string>
+    <string name="medication_label_name">Nama Obat</string>
+    <string name="medication_placeholder_name">masukkan nama obat</string>
+    <string name="medication_label_instruction">Instruksi</string>
+    <string name="medication_placeholder_instruction">pilih instruksi</string>
+    <string name="medication_label_frequency">Frekuensi</string>
+    <string name="medication_placeholder_frequency">pilih frekuensi</string>
+    <string name="appointment_label_date_start">Tanggal Mulai</string>
+    <string name="appointment_label_date_end">Tanggal Berakhir</string>
+    <string name="medication_label_dosage">Berapa kali sehari?</string>
+    <string name="medication_placeholder_dosage">masukkan dosis</string>
+    <string name="medication_label_days">Hari apa saja?</string>
+    <string name="medication_placeholder_time">masukkan waktu</string>
+    <string name="onboarding_title_1">Jadwal Minum Obat</string>
+    <string name="onboarding_desc_1">Jangan lewatkan satu dosis pun. Atur pengingat obat Anda dan pantau kemajuan pengobatan dengan mudah</string>
+    <string name="onboarding_title_2">Jadwal Kontrol</string>
+    <string name="onboarding_desc_2">Tetap teratur dengan jadwal kontrol. TuboCare membantu Anda mengingat setiap janji penting dengan dokter Anda</string>
+    <string name="onboarding_title_3">Riwayat Kesehatan</string>
+    <string name="onboarding_desc_3">Catat setiap perubahan berat badan dan gejala yang Anda alami. TuboCare membantu Anda untuk melacak setiap perubahan kondisi</string>
+    <string name="onboarding_title_4">Mulai Sekarang</string>
+    <string name="onboarding_desc_4">Siap untuk mengambil langkah pertama? Mari atur TuboCare Anda dan maju bersama menuju hari yang lebih sehat</string>
+    <string name="btn_get_started">Get Started</string>
+    <string name="medication_label_duration">Durasi</string>
+    <string name="medication_label_remain">Jumlah Obat</string>
+    <string name="medication_label_dosage_2">Dosis</string>
+    <string name="title_detail_medication">Detail Obat</string>
+    <string name="title_edit_medication">Ubah Jadwal</string>
+    <string name="title_medication_list">Jadwal Minum Obat</string>
+    <string name="title_medication_today">Jadwal Hari Ini</string>
+    <string name="title_new">Menambahkan</string>
+    <string name="btn_new_medication">Jadwal\\nMinum Obat</string>
+    <string name="btn_new_appointment">Jadwal\\nKontrol Rutin</string>
+    <string name="btn_new_sick">Riwayat\\nKeluhan Dini</string>
+    <string name="btn_new_weight">Riwayat\\nBerat Badan</string>
+
+    <string name="title_forgot_password">Reset Password</string>
+    <string name="subtitle_forgot_password">Silakan masukkan alamat email yang Anda gunakan saat mendaftar untuk instruksi reset password.</string>
+    <string name="btn_upload_image">Upload Bukti Minum Obat</string>
+    <string name="support_note_medication">misal: untuk meredahakan nyeri</string>
+    <string name="appointment_label_remain">Jumlah Obat</string>
+
+    <string name="alert_dialog_title">Konfirmasi Hapus</string>
+    <string name="alert_dialog_text">Apakah Anda yakin ingin menghapus jadwal ini? Jadwal akan dihapus secara permanen dari daftar Anda.</string>
+    <string name="alert_dialog_text_2">Apakah Anda yakin ingin menghapus riwayat ini? Riwayat akan dihapus secara permanen dari daftar Anda.</string>
+    <string name="alert_dialog_text_3">Apakah Anda yakin ingin menghapus semua notifikasi ini?</string>
+    <string name="medication_placeholder_remain">masukkan jumlah obat</string>
+    <string name="btn_view_image">Lihat Bukti Minum Obat</string>
+    <string name="title_medication_image">Bukti Minum Obat</string>
+    <string name="title_about">Tentang Kami</string>
+    <string name="about_content_1">Tubocare adalah aplikasi kesehatan yang dirancang untuk membantu pasien TBC untuk melakukan perawatan diri yang efektif dan mandiri. Aplikasi ini memiliki beberapa fitur, seperti: pengingat minum obat, pengingat jadwal kontrol, catatan riwayat keluhan, dan catatan berat badan.</string>
+    <string name="about_content_2">Jika anda mengalami kendala atau ingin mengetahui lebih lanjut tentang aplikasi ini, silakan hubungi kami melalui:</string>
+
+    <string name="notification_channel_medication_name">Reminder Medication</string>
+    <string name="notification_channel_medication_description">Channel for reminder medication</string>
+    <string name="btn_see">Lihat</string>
+    <string name="title_patient_detail">Detail Pasien</string>
+    <string name="title_gender">Jenis Kelamin</string>
+    <string name="title_address">Alamat Domisili</string>
+    <string name="title_phone">No. Handphone</string>
+    <string name="notification_channel_appointment_name">Reminder Appointment</string>
+    <string name="notification_channel_appointment_description">Channel for reminder appointment</string>
+
+    <string-array name="list_medication_time">
+        <item>Waktu minum pertama</item>
+        <item>Waktu minum kedua</item>
+        <item>Waktu minum ketiga</item>
+        <item>Waktu minum keempat</item>
+        <item>Waktu minum kelima</item>
+    </string-array>
+
+    <string-array name="list_role">
+        <item>Pasien</item>
+        <item>Tenaga Kesehatan</item>
+    </string-array>
+
+    <string-array name="list_gender">
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+
+    <string-array name="list_puskesmas">
+        <item>Puskesmas Dinoyo</item>
+    </string-array>
+
+    <string-array name="list_instruction">
+        <item>Setelah makan</item>
+        <item>Sebelum makan</item>
+    </string-array>
+
+    <string-array name="list_frequency">
+        <item>Setiap hari</item>
+        <item>Hari-hari tertentu</item>
+        <item>Hari-hari tertentu dalam seminggu</item>
+    </string-array>
+
+    <string-array name="list_days">
+        <item>Senin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Kamis</item>
+        <item>Jumat</item>
+        <item>Sabtu</item>
+        <item>Minggu</item>
+    </string-array>
+
+    <string-array name="list_medication_name">
+        <item>Isoniazid (INH)</item>
+        <item>Rifampisin (RIF)</item>
+        <item>Pirazinamid (PZA)</item>
+        <item>Etambutol (EMB)</item>
+        <item>Streptomisin (STM)</item>
+        <item>Kanamisin</item>
+        <item>Amikasin</item>
+        <item>Kapreomisin</item>
+        <item>Levofloksasin</item>
+        <item>Moksifloksasin</item>
+        <item>Protionamid</item>
+
+        <item>Paracetamol</item>
+        <item>Ibuprofen</item>
+        <item>Aspirin</item>
+        <item>Amoxicillin</item>
+        <item>Metformin</item>
+
+    </string-array>
+</resources>
